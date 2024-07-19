@@ -10,7 +10,7 @@
 - ⚡ Nvim enthusiast
 - 💻 Programming in C
 
-### If you want to contact me, find the links below:
+### Contact me:
 
 ---
 
